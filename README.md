@@ -7,4 +7,4 @@ check1-image    // check on old code but we change it because accuracy  18/10/20
 image           18/10/2022  "old code with low accuracy"
 check-questionnaires  
 questionaire.h5 with 10 question only after edit
-                        // code questionnaires with 10 questions only
+questions.ipynp                        // code questionnaires with 10 questions only
