@@ -6,6 +6,6 @@ Autism Diagnosis1.ipynb                                                // code Q
 check1-image    // check on old code but we change it because accuracy  18/10/2022
 image           18/10/2022  "old code with low accuracy"
 check-questionnaires  
-questionaire.h5 with 10 question only after edit
+questionaire.h5/tflite with 10 question only after edit
 questions.ipynp                        // code questionnaires with 10 questions only
 model.tflite                           //with 15 questions before edit
