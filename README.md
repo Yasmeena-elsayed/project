@@ -13,3 +13,4 @@ LSTM1.ipynp                            // code brain image with accuracy 52%
 model3.h5                              // save previous model
 FMRI_modelconv1d                       // code brain with acc 70%
 FMRI                                   // code brain with acc 71%
+FMRImodel_1.h5                         // code brain with acc 71% .h5
