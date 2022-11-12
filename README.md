@@ -9,8 +9,9 @@ check-questionnaires
 questionaire.h5/tflite with 10 question only after edit
 questions.ipynp                        // code questionnaires with 10 questions only
 model.tflite                           //with 15 questions before edit
-LSTM1.ipynp                            // code brain image with accuracy 52%
+LSTM1.ipynb                           // code brain image with accuracy 52%
 model3.h5                              // save previous model
 FMRI_modelconv1d                       // code brain with acc 70%
 FMRI                                   // code brain with acc 71%
 FMRImodel_1.h5                         // code brain with acc 71% .h5
+brain image.ipynb                      // code brain with LSTM with acc 56%
