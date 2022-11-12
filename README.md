@@ -11,3 +11,4 @@ questions.ipynp                        // code questionnaires with 10 questions 
 model.tflite                           //with 15 questions before edit
 LSTM1.ipynp                            // code brain image with accuracy 52%
 model3.h5                              // save previous model
+FMRI_modelconv1d                       // code brain with acc 70%
