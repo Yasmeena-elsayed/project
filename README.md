@@ -9,3 +9,5 @@ check-questionnaires
 questionaire.h5/tflite with 10 question only after edit
 questions.ipynp                        // code questionnaires with 10 questions only
 model.tflite                           //with 15 questions before edit
+LSTM1.ipynp                            // code brain image with accuracy 52%
+model3.h5                              // save previous model
