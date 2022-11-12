@@ -14,4 +14,5 @@ model3.h5                              // save previous model
 FMRI_modelconv1d                       // code brain with acc 70%
 FMRI                                   // code brain with acc 71%
 FMRImodel_1.h5                         // code brain with acc 71% .h5
-brain image.ipynb                      // code brain with LSTM with acc 56%
+brain image.ipynb                      // code brain with LSTM with acc 56% 
+brain.h5                               // code brain with LSTM with acc 56%  .h5
