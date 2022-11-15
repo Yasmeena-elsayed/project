@@ -17,3 +17,4 @@ FMRImodel_1.h5                         // code brain with acc 71% .h5
 brain image.ipynb                      // code brain with LSTM with acc 56% 
 brain.h5                               // code brain with LSTM with acc 56%  .h5
 Autism.ipynb                           // code face image with accuracy 89.5%
+check_imagenew.ipynp                   // code check for new dataset face image
