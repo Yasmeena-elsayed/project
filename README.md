@@ -12,9 +12,10 @@ model.tflite                           //with 15 questions before edit
 LSTM1.ipynb                           // code brain image with accuracy 52%
 model3.h5                              // save previous model
 FMRI_modelconv1d                       // code brain with acc 70%
-FMRI                                   // code brain with acc 71%
+FMRI                                   // code brain with acc 68%
 FMRImodel_1.h5                         // code brain with acc 71% .h5
 brain image.ipynb                      // code brain with LSTM with acc 56% 
 brain.h5                               // code brain with LSTM with acc 56%  .h5
 Autism.ipynb                           // code face image with accuracy 89.5%
 check_imagenew.ipynp                   // code check for new dataset face image
+FMRI1.ipynb                            // code fmri with acc 71%
